@@ -1,6 +1,6 @@
 # GrabObjectComponent_UE
 
- The Grabber component let you grab and highlight an object in Unreal Engine level in runtime by using physics handle. 
+ The Grabber component let you highlight and grab an object in UE level in runtime by using physics handle. 
  
  To make the Grabber component work, you need to do follow :
 - Add Grabber component to default pawn (if we play the game with default pawn)
