@@ -1,4 +1,4 @@
-# GrabObjectComponent_UE
+# GrabObjectComponent
 
  The Grabber component let you highlight and grab an object in UE level in runtime by using physics handle. 
  
